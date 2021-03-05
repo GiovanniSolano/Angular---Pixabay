@@ -1,0 +1,13 @@
+.likesViews {
+    font-weight: bold;
+    margin-bottom: -3px;
+}
+
+a {
+    cursor: pointer;
+}
+
+button:disabled {
+    background-color: beige;
+    color: black;
+}
